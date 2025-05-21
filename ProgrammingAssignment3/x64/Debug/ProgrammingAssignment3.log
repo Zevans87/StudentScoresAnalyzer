@@ -1,0 +1,5 @@
+﻿  SuperArrayTest.cpp
+  SuperArray.cpp
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project3\ProgrammingAssignment3\ProgrammingAssignment3\SuperArray.cpp(30,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ProgrammingAssignment3.vcxproj -> C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project3\ProgrammingAssignment3\x64\Debug\ProgrammingAssignment3.exe
